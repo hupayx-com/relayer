@@ -17,8 +17,8 @@ import (
 )
 
 const (
-	REPOURL  = "https://github.com/cosmos/relayer"
-	PATHSURL = "https://github.com/cosmos/relayer/tree/main/interchain"
+	REPOURL  = "https://github.com/hupayx-com/relayer"
+	PATHSURL = "https://github.com/hupayx-com/relayer/tree/main/interchain"
 )
 
 func pathsCmd(a *appState) *cobra.Command {
